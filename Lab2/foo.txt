@@ -1,0 +1,5 @@
+public Class foo {
+public Static void Main(String[] args) {
+
+} //end main
+} //end foo
